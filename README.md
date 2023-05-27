@@ -41,6 +41,7 @@ Cada alumno debe editar este fichero para incluir sus datos. Se ruega respetar e
 * Urbano Ruz, Alfonso - [UrbanShop](https://github.com/aUrbano24/ProyectoFinal---2022-2023)
 * Bravo Romo, Alfonso Jesús - [AlfonsoJBR](https://github.com/AlfonsoJBR)
 * Banderas Tomillo, Ián - [Proyecto](https://github.com/ianbanderas/ProjectoDAW/tree/main)
+* Calahorro Jiménez, Miguel - [SnappyBooking](https://github.com/mcalahorro/SnappyBooking)
 
 
 ## 📝 Fechas a tener en cuenta
